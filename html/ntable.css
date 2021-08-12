@@ -1,0 +1,13 @@
+
+    table, th,td {
+        border: 1px solid black;
+        align-content: center;
+tbody tr:nth-child(even){
+    background-color: skyblue;
+}
+tbody tr :nth-child(odd){
+    background-color: tomato;
+}
+thead{
+    color:chartreuse
+}

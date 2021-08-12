@@ -1,0 +1,20 @@
+@keyframes anim {
+    40%{
+        width: 20px;
+    }
+    60%{
+        width: 30px;
+    }
+}
+img{
+    width: 200px;
+    height: 100px;
+    animation-name: anim;
+    animation-duration: 10s;
+    
+}
+img:hover{
+    width: 600px;
+    transition-duration: 10s;
+    trans
+}
